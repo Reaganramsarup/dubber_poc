@@ -1,4 +1,4 @@
-# Google Dubbing Example for the Multichoice POC
+# Google Dubbing Example for the POC
 
 In this directory, you'll find code that takes a movie and:
 This repo contains the code that uses various google services to translate and dub a video for any language of your choosing. 
