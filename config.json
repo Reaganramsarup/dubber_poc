@@ -1,0 +1,15 @@
+{
+    "videoFile": "C:\\Dev\\Repos\\Dubber multichoice\\test.mp4",
+    "outputDir": "C:\\Dev\\Repos\\Dubber multichoice\\outputDirectory",
+    "srcLang": "en",
+    "targetLangs": ["pt"],
+    "storageBucket": "video-bucket-multichoice-poc",
+    "phraseHints": [],
+    "dubSrc": false,
+    "speakerCount": 1,
+    "voices": {},
+    "srt": false,
+    "newDir": false,
+    "genAudio": false,
+    "noTranslate": false
+}
